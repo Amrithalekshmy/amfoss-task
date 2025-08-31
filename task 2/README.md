@@ -1,0 +1,1 @@
+I have a previous knowledge of python as I was a computer science student in my 11th and 12th. I love to buit code and improve myself in coding and this has introduced me with many new errors and I tried to solve most of the errors by myself 
