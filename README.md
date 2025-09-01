@@ -1,1 +1,1 @@
-# amfoss-task
+I'm Amrithalekshmy.I'm from Pathanamthitta, Kerala.I enjoy playing badminton and basketball. Additionally, I like to code, and I'm eager to learn more about the various programming languages.I have a foundation in HTML and Python, and I've recently begun learning CSS and JavaScript.
