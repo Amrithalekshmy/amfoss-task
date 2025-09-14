@@ -1,0 +1,1 @@
+I studied the basics of css and i had done this task with help of my friends.Most of the shapes were tricky and it was difficult to find the correct position of the small details in the given output

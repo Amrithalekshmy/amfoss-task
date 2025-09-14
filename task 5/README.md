@@ -1,0 +1,1 @@
+Doing this task was nice.I learned something new about timers, exceptions, and making interactive programs. And honestly, it felt satisfying to mix all these small Python concepts into one project that actually runs like a mini-game.
